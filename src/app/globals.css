@@ -14,4 +14,9 @@
 html {
   scroll-behavior: smooth;
 }
+@font-face {
+  font-family: "Recoleta";
+  src: url("../assets/fonts/Recoleta-RegularDEMO.otf") format("truetype");
+  /* Add more font formats (e.g., woff, woff2) if available */
+}
 /* ================= reset code and common ends here =================== */
